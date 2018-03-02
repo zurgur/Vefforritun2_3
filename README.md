@@ -1,5 +1,7 @@
 # Verkefni 3
 
+# heroku: https://veff2-3.herokuapp.com/
+
 Útfæra skal vefþjónustu sem leyfir að skrifa, lesa, breyta og eyða minnisatriðum.
 
 ## `notes.js`
